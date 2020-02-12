@@ -24,7 +24,7 @@ int main()
     std::stringstream geek(v2);
     double k;
     geek>>k;
-    std::cout<<"*****"<<k+2<<"******";
+    std::cout<<"*****"<<k+2<<"*****";
     
 
     return 0;
